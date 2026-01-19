@@ -1,0 +1,6 @@
+2026-01-19 17:54:58,803 INFO OK input=-2.5 precision=2 both=False
+2026-01-19 17:55:01,599 INFO OK input=-2.5 precision=2 both=True
+2026-01-19 18:04:33,158 WARNING Validation error: err_empty (input=)
+2026-01-19 18:04:39,915 INFO OK input=-2 precision=2 both=False
+2026-01-19 18:04:41,808 INFO OK input=-2 precision=2 both=True
+2026-01-19 18:09:18,232 INFO OK input=-2 precision=2 both=False

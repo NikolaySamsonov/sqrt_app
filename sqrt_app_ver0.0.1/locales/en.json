@@ -1,0 +1,13 @@
+{
+  "ui_title": "Square Root Calculator",
+  "ui_lang": "Language:",
+  "ui_input": "Number (e.g. -2.5):",
+  "ui_precision": "Precision (0..5):",
+  "ui_both_roots": "Show both roots (±)",
+  "ui_calc": "Calculate",
+  "ui_result": "Result:",
+
+  "err_empty": "Error: empty input.",
+  "err_format": "Error: enter a real number (e.g. 12.34 or -5.0).",
+  "err_unknown": "Error: unexpected error. See app.log."
+}
